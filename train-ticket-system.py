@@ -30,7 +30,7 @@ def displayAvailableSeats():
 # Function to display booked seats
 def displayBookedSeats():
     print("--- Booked Seats & Passengers ---")
-    booked_count = 0
+    bookedcount = 0
     
     # Iterate through all seats
     for i in range(maxseats):
@@ -137,5 +137,6 @@ if __name__=="__main__":
 
 
  
+
 
 
